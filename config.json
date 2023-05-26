@@ -2,14 +2,14 @@
     "name": "DevsCloud", 
     "website": {
     "port": 8182,
-    "secret": "KJIHUGYFTryuioJKNHBGYTFRTYuiojnhbgvfrdetYUIOUYTR5456",
-    "domain": "www.devscloud.tk"
+    "secret": "",
+    "domain": "www.pobrenodes.com.br"
     },
     "support": "https://discord.gg/tUyu65xcUh",
 
     "hosting": {
-        "client_domain": "https://dash.devscloud.tk",
-        "panel_domain": "https://painel.devscloud.tk"
+        "client_domain": "https://dash.pobrenodes.com.br",
+        "panel_domain": "https://painel.pobrenodes.com.br"
     },
 
     "status": {
